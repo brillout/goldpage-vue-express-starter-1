@@ -5297,10 +5297,10 @@ widest-line@^2.0.0:
   dependencies:
     string-width "^2.1.1"
 
-wildcard-api@^0.5.3:
-  version "0.5.3"
-  resolved "https://registry.yarnpkg.com/wildcard-api/-/wildcard-api-0.5.3.tgz#f3b1f206a08948b4b77e5bd7077570ba7dbf9392"
-  integrity sha512-Hm6RKtuosVCQtNLoOl3ODO0tCtFFQUNS9f1H1KmhpwXGWC525c6WwdAsgQtCETq33OQNNazvyogTy1Bhjf7IxQ==
+wildcard-api@^0.5.4:
+  version "0.5.4"
+  resolved "https://registry.npmjs.org/wildcard-api/-/wildcard-api-0.5.4.tgz#b613e9e1ba541543b56d1c1d8bd14069c4ed505b"
+  integrity sha512-BsahKINdUQWhKp6EVZvKMAk4GJciFcsaRsWRQNY1f3GxOKTFMNel6kFj7blPkuom4JX6lra/6CDCV/lj77ki/A==
   dependencies:
     "@brillout/fetch" "^0.1.2"
     "@brillout/reassert" "^0.1.0"
